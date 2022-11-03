@@ -1,3 +1,3 @@
 # Lumptal
 
-![lumptal.png](lumptal.png)
+![lumptal.png](../lumptal.png)
